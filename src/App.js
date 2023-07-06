@@ -51,7 +51,7 @@ const tempWatchedData = [
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
 
-const KEY = "";
+const KEY = "46bb84a1";
 
 export default function App() {
   const [query, setQuery] = useState("");
@@ -395,12 +395,9 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
           const res = await fetch(
             `http://www.omdbapi.com/?apikey=${KEY}&i=${selectedId}`
           );
-
           if (!res.ok)
             throw new Error(`Something went wrong while loading movie!`);
-
           const data = await res.json();
-
           setMovie(data);
         } catch (err) {
           console.error(err);
@@ -409,10 +406,22 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
           setIsLoading(false);
         }
       }
-
       getMovieDetails();
     },
     [selectedId]
+  );
+
+  useEffect(
+    function () {
+      if (!title) return;
+      document.title = `Movie | ${title}`;
+
+      return function () {
+        document.title = "usePopcorn";
+        console.log(`clean up with movie ${title}`);
+      };
+    },
+    [title]
   );
 
   return (
