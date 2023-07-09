@@ -29,7 +29,7 @@ Go to [**usePopcorn Web Site**](https://usepopcorn-anik.netlify.app/)
 
 ### 2. Rate your movie and add it to your watched list!
 
-![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de =100x20)
+![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de =250x)
 
 ---
 
