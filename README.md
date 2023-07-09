@@ -31,7 +31,7 @@ Go to [**usePopcorn Web Site**](https://usepopcorn-anik.netlify.app/)
 
 ![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de)
 
-![rating2](https://github.com/anikpaul99/usepopcorn/assets/132483203/020b86ca-a099-4a1d-aecb-ffbf5ccc21d5)
+![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/d882cd89-f2ff-429c-9639-b68a5477b9ee)
 
 ---
 
