@@ -25,12 +25,11 @@ Go to [**usePopcorn Web Site**](https://usepopcorn-anik.netlify.app/)
 
 ### 2. Get to know info like imdb rating, genre, movie plot and more!
 
-![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/a0dcb366-d340-4ea0-982b-2307b8c40fe7 =250x)
-![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/a0dcb366-d340-4ea0-982b-2307b8c40fe7 | width=250)
+![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/a0dcb366-d340-4ea0-982b-2307b8c40fe7)
 
 ### 2. Rate your movie and add it to your watched list!
 
-![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de | width=250)
+![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de)
 
 ---
 
