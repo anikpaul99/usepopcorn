@@ -23,7 +23,7 @@ Go to [**usePopcorn Web Site**](https://usepopcorn-anik.netlify.app/)
 
 ![search](https://github.com/anikpaul99/usepopcorn/assets/132483203/34544c96-6838-41e6-b100-336183e28766)
 
-### 2. Get to know info like imdb rating, genre, movie plot and more!
+### 2. Get to know about imdb rating, genre, movie plot and more!
 
 ![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/a0dcb366-d340-4ea0-982b-2307b8c40fe7)
 
