@@ -27,6 +27,8 @@ Go to [**usePopcorn Web Site**](https://usepopcorn-anik.netlify.app/)
 
 ![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/a0dcb366-d340-4ea0-982b-2307b8c40fe7)
 
+![movie details](https://github.com/anikpaul99/usepopcorn/assets/132483203/4a461d69-3aaa-42b4-b612-6874289ef00a)
+
 ### 2. Rate your movie and add it to your watched list!
 
 ![rating movie](https://github.com/anikpaul99/usepopcorn/assets/132483203/7da7ad81-afc2-4e8c-ae24-ea65ec5c45de)
